@@ -1,0 +1,15 @@
+
+
+Código de seguridad = 4321
+
+Nombre de Usuario = "Nazareno Morillo"
+Saldo inicial de cuenta = $1500
+Limite de Extraccion = $1000
+
+Servicio de Agua = $350
+Servicio de Telefono = $425
+Servicio de Luz = $210
+Servicio de Internet = $570
+
+Cuenta Amiga1 = 1234567
+Cuenta Amiga2 = 7654321
